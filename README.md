@@ -1,7 +1,7 @@
 ## Study-global-human-migration-trends-using-Machine-Learning-and-Deep-Learning-tools
 
 
-# Project Overview-
+# Project Overview
 
 The decision-making process behind human migration is complex and influenced by various factors such as economic opportunities, environmental conditions, conflicts, and social dynamics. These factors are represented in diverse data sources, spanning from traditional household surveys to modern satellite imagery and even social media and news reports.
 
