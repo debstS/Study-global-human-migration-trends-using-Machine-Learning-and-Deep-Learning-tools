@@ -24,7 +24,7 @@ As mentioned earlier, Data Analysis and Machine Learning offer significant poten
 4. Do additional sociodemographic factors play a role in migration patterns? If yes, which factors?
 5. Can sociodemographic data help forecast whether a country's Net Migration Rate will be positive or negative?
 
-# Techstack -
+# Techstack 
 
 To manage and structure the data effectively, Google Colab was chosen to facilitate remote accessibility on the code. Using Python alongside the Pandas library, the data across diverse databases was cleaned and formatted. Subsequently, the cleaned data tables were exported as CSV files and uploaded to Github. Raw data underwent manipulation in PgAdmin to merge various tables, forming a new table essential for the Machine Learning phase. For Machine Learning, two libraries were utilized: Sci-kit Learn and Tensorflow. Each library provided a model, allowing for comparison and optimization. Finally Tableau was chosen for data visualization for creating the final dashboard with answers to all the relevant questions as mentioned earlier.
 
@@ -37,6 +37,8 @@ To manage and structure the data effectively, Google Colab was chosen to facilit
 6. Validation of Model with new data
 7. Final results
 8. Building a dashboard to display relevant metrics
+9. Future analysis
+10. Recommendations and final considerations
 
 # Data Sources
 
